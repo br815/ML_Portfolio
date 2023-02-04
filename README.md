@@ -6,4 +6,4 @@ Portfolio component 0: [Overview of ML](Overview_of_ML.pdf)
 
 ## Data Exploration
 Portfolio component 1: [Data Exploration](Data_Exploration.pdf)\
-Code for this component: [data_exploration](data_exploration.cpp)
+Code for this component: [data_exploration.cpp](data_exploration.cpp)
