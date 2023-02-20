@@ -9,6 +9,5 @@ Writeup: [Data Exploration](Data_Exploration.pdf)\
 Code: [data_exploration.cpp](data_exploration.cpp)
 
 ## Portfolio 2: Linear Models
-Writeup: none\
 Code, part 1: [Regression](Regression.pdf)\
 Code, part 2: [Classification](Classification.pdf)
