@@ -9,5 +9,5 @@ Writeup: [Data Exploration](Data_Exploration.pdf)\
 Code: [data_exploration.cpp](data_exploration.cpp)
 
 ## Portfolio 2: Linear Models
-Notebook 1: [Regression](Regression.pdf)\
-Notebook 2: [Classification](Classification.pdf)
+R Notebook 1: [Regression](Regression.pdf)\
+R Notebook 2: [Classification](Classification.pdf)
