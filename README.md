@@ -15,5 +15,5 @@ CS 4375 (Intro to Machine Learning) - UTD Spring 2023
 * R Notebook 1: [Regression](/Portfolio2/Regression.pdf)
 * R Notebook 2: [Classification](/Portfolio2/Classification.pdf)
 
-## Portfolio 3: Logistic Regression & Naive Bayes from Scratch
+## Portfolio 3: Classification Algorithms from Scratch
 * [Instructions](/Portfolio3/Portfolio3_ML_Algorithms_from_Scratch.pdf)
