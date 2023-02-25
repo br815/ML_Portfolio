@@ -1,4 +1,4 @@
-# ML_Portfolio
+# ML Portfolio
 CS 4375 (Intro to Machine Learning) - UTD Spring 2023
 
 ## Portfolio 0: Overview of ML
