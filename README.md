@@ -17,3 +17,7 @@ CS 4375 (Intro to Machine Learning) - UTD Spring 2023
 
 ## Portfolio 3: Classification Algorithms from Scratch
 * [Instructions](/Portfolio3/Portfolio3_ML_Algorithms_from_Scratch.pdf)
+* Code: 
+  * Logistic Regression: [logreg.cpp](/Portfolio3/logreg.cpp)
+  * Naive Bayes: [nb.cpp](/Portfolio3/nb.cpp)
+* Writeup: [Classification from Scratch](/Portfolio2/Classification_From_Scratch.pdf)
