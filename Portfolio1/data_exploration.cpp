@@ -1,7 +1,7 @@
 /*
 Name: Bushra Rahman
 Class: CS 4375.004
-Assignment: ML Portfolio 1
+Assignment: Data Exploration in C++
 Due date: 2/4/23
 */
 
