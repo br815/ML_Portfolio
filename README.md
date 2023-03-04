@@ -21,3 +21,6 @@ CS 4375 (Intro to Machine Learning) - UTD Spring 2023
   * Logistic Regression: [logreg.cpp](/Portfolio3/logreg.cpp)
   * Naive Bayes: [nb.cpp](/Portfolio3/nb.cpp)
 * Writeup: [Classification from Scratch](/Portfolio2/Classification_From_Scratch.pdf)
+
+## Portfolio 4: Similarity and Ensemble
+* [Instructions](/Portfolio4/Portfolio4_Similarity_Algorithms.pdf)
