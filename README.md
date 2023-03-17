@@ -22,7 +22,7 @@ CS 4375 (Intro to Machine Learning) - UTD Spring 2023
   * Naive Bayes: [nb.cpp](/Portfolio3/nb.cpp)
 * Writeup: [Classification from Scratch](/Portfolio2/Classification_From_Scratch.pdf)
 
-_*Incomplete_
+_*Not finalized_
 
 ## Portfolio 4: Similarity and Ensemble
 * [Instructions](/Portfolio4/Instructions4_Similarity_Algorithms.pdf)
