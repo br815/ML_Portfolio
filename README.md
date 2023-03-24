@@ -28,4 +28,4 @@ _*Not finalized_
 ## Portfolio 4: Similarity and Ensemble
 * [Instructions](/Portfolio4/Instructions4_Similarity_Algorithms.pdf)
 * R Notebook: [Clustering](/Portfolio4/Clustering.pdf) - **Bushra Rahman**
-** [vgsales.csv](vgsales.csv): dataset
+* * [vgsales.csv](vgsales.csv): dataset
