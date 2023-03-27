@@ -32,4 +32,4 @@ _*Not finalized_
 * R Notebook: [Clustering](/Portfolio4/Part3_Clustering.pdf) - **Bushra Rahman**
   * [vgsales.csv](vgsales.csv): dataset
 * R Notebook: [PCA & LDA](/Portfolio4/Part4_PCA&LDA.pdf) - **Vedant Prakash**
-* [Writeup](/Portfolio4/Part5_Narrative.pdf) - **Marcela Pantoja**
+* Writeup: [Similarity and Ensemble](/Portfolio4/Part5_Narrative.pdf) - **Marcela Pantoja**
