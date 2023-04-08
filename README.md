@@ -34,6 +34,10 @@ _*Not finalized_
 * R Notebook: [PCA & LDA](/Portfolio4/Part4_PCA&LDA.pdf) - **Vedant Prakash**
 * Writeup: [Similarity Algorithms](/Portfolio4/Part5_Narrative.pdf) - **Marcela Pantoja**
 
-## Portfolio 5: : Python ML with sklearn
+## Portfolio 5: Python ML with SKLearn
 * [Instructions](/Portfolio5/Instructions5_ML_With_SKLearn.pdf)
 * Python Notebook: [ML with SKLearn](/Portfolio5/ML_with_SKLearn.pdf)
+
+## Portfolio 6:  Image Classification with DL
+* [Instructions](/Portfolio6/Instructions6_Image_Classification_With_DL.pdf)
+* 
