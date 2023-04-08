@@ -33,3 +33,7 @@ _*Not finalized_
   * [vgsales.csv](vgsales.csv): dataset
 * R Notebook: [PCA & LDA](/Portfolio4/Part4_PCA&LDA.pdf) - **Vedant Prakash**
 * Writeup: [Similarity Algorithms](/Portfolio4/Part5_Narrative.pdf) - **Marcela Pantoja**
+
+## Portfolio 5: : Python ML with sklearn
+* [Instructions](/Portfolio5/Instructions5_ML_With_SKLearn.pdf)
+* Python Notebook: [ML with SKLearn](/Portfolio5/ML_with_SKLearn.pdf)
