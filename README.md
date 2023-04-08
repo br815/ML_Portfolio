@@ -27,5 +27,9 @@ _*Not finalized_
 
 ## Portfolio 4: Similarity and Ensemble
 * [Instructions](/Portfolio4/Instructions4_Similarity_Algorithms.pdf)
-* R Notebook: [Clustering](/Portfolio4/Clustering.pdf) - **Bushra Rahman**
+* R Notebook: [Regression](/Portfolio4/Part1_Regression.pdf) - **Aarya Patil**
+* R Notebook: [Classification](/Portfolio4/Part2_Classification.pdf) - **Sovanna Ramirez**
+* R Notebook: [Clustering](/Portfolio4/Part3_Clustering.pdf) - **Bushra Rahman**
   * [vgsales.csv](vgsales.csv): dataset
+* R Notebook: [PCA & LDA](/Portfolio4/Part4_PCA&LDA.pdf) - **Vedant Prakash**
+* Writeup: [Similarity Algorithms](/Portfolio4/Part5_Narrative.pdf) - **Marcela Pantoja**
