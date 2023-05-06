@@ -1,5 +1,7 @@
-# ML Portfolio
+# ML Portfolio - Bushra Rahman
 CS 4375 (Intro to Machine Learning) - UTD Spring 2023
+
+GitHub Pages link: https://br815.github.io/ML_Portfolio/
 
 ## Portfolio 0: Overview of ML
 * [Instructions](/Portfolio0/Instructions0_Setup.pdf)
@@ -40,4 +42,10 @@ _*Not finalized_
 
 ## Portfolio 6:  Image Classification with DL
 * [Instructions](/Portfolio6/Instructions6_Image_Classification_With_DL.pdf)
-* 
+* Code*
+
+_*Not finalized_
+
+## Portfolio 7: ML Portfolio Summary
+* [Instructions](/Portfolio7/Instructions7_Portfolio_Summary_ML.pdf)
+* Writeup: [ML Portfolio Summary](/Portfolio7/Portfolio_Summary_ML.pdf)
