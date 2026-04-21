@@ -1,4 +1,4 @@
-# ML Portfolio - Bushra Rahman
+# ML Portfolio | Bushra Rahman
 CS 4375 (Intro to Machine Learning) | UTD Spring 2023
 
 GitHub Pages link: https://br815.github.io/ML_Portfolio/
